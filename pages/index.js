@@ -20,7 +20,7 @@ export default function Index({ allPosts }) {
           title="David Joseph Thomas"
           description="Software Engineer | JavaScript"
           openGraph={{
-            url: 'www.davidjt7.github.io',
+            url: 'https://blog-davidjt7.vercel.app/',
             title: 'David Joseph Thomas',
             description: 'Software Engineer | JavaScript',
             images: [
